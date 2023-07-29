@@ -1,6 +1,6 @@
-# Hi there 👋 (English)
+# [Hi there 👋 (English) ![主站 github](https://img.shields.io/badge/%E4%B8%BB%E7%AB%99-github-black)](https://github.com/linux-rm/linux-rm)
 
-# 嘿,你好 👋(中文,Chinese)
+# [嘿,你好 👋 (中文,Chinese) ![镜像 gitee](https://img.shields.io/badge/%E9%95%9C%E5%83%8F-gitee-red)](https://gitee.com/linux-rm/linux-rm)
 
 ---
 
@@ -10,8 +10,10 @@
 
 |Type-类型|Information-信息|
 |-|-|
-|Nationality-国籍|China-中国 <img src="China.svg" height="32px" alt="https://raw.kgithub.com/linux-rm/linux-rm/main/China.svg" />|
-|language-编程语言||
+|Nationality-国籍|China-中国 <img height="32px" src="China.svg" alt="https://gitee.com/linux-rm/linux-rm/raw/main/China.svg" />|
+|language-编程语言|<img height="32px" src="https://learn.microsoft.com/zh-cn/media/logos/logo_C.svg" alt="C"/><img height="32px" src="https://learn.microsoft.com/zh-cn/media/logos/logo_Cplusplus.svg" alt="C++"/> Linux shell script|
+|Code Editor-代码编辑器|<img height="32px" src="https://insiders.vscode.dev/static/insider/code-192-apple.png" alt="Visual Studio Code Insiders" /> <img height="32px" src="https://www.vim.org/images/vimlogo.svg" alt="Vim"/> |
+|Shell|<img height="32px" src="https://www.zsh.org/color_vertical_icon.png" alt="zsh"/> + <img height="32px" src="https://ohmyz.sh/img/OMZLogo_BnW.png" alt="oh-my-zsh" /> + powerlevel10k|
 
 <!--
 Here are some ideas to get you started:
