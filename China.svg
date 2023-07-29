@@ -6,8 +6,7 @@
 	 height="1333.3333"
 	 viewBox="0 0 2000 1333.3333"
 	 xmlns="http://www.w3.org/2000/svg"
-	 xml
-	 ns:svg="http://www.w3.org/2000/svg">
+	 xmlns:svg="http://www.w3.org/2000/svg">
 	<path style="fill:#ff0000"
 		  d="M 0,666.66663 V 0 H 1000 2000 V 666.66663 1333.3333 H 1000 0 Z" />
 	<path style="fill:#ffff00"
