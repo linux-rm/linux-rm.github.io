@@ -10,7 +10,7 @@
 
 |Type-类型|Information-信息|
 |-|-|
-|Nationality-国籍|China-中国 ![China.svg](China.svg)|
+|Nationality-国籍|China-中国 [<img src="China.svg" height="32px" />](https://www.china.com.cn) |
 |language-编程语言||
 
 <!--
