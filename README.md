@@ -10,7 +10,7 @@
 
 |Type-类型|Information-信息|
 |-|-|
-|Nationality-国籍|China-中国 [<img src="China.svg" height="32px" alt="https://raw.kgithub.com/linux-rm/linux-rm/main/China.svg" />](https://www.china.com.cn) |
+|Nationality-国籍|China-中国 <img src="China.svg" height="32px" alt="https://raw.kgithub.com/linux-rm/linux-rm/main/China.svg" />|
 |language-编程语言||
 
 <!--
