@@ -13,6 +13,7 @@
 |Type-类型|Information-信息|
 |-|-|
 |Nationality-国籍|China-中国 <img height="32px" src="China.svg" alt="https://gitee.com/linux-rm/linux-rm/raw/main/China.svg" />|
+|System-系统|<img height="32px" src="linux.svg" alt="Linux https://gitee.com/linux-rm/linux-rm/raw/main/" /> <img height="32px" src="https://www.fedoraproject.org/w/uploads/2/2d/Logo_fedoralogo.png" alt="Fedora" /> |
 |language-编程语言|<img height="32px" src="https://learn.microsoft.com/zh-cn/media/logos/logo_C.svg" alt="C"/><img height="32px" src="https://learn.microsoft.com/zh-cn/media/logos/logo_Cplusplus.svg" alt="C++"/> Linux shell script|
 |Code Editor-代码编辑器|<img height="32px" src="https://insiders.vscode.dev/static/insider/code-192-apple.png" alt="Visual Studio Code Insiders" /> <img height="32px" src="https://www.vim.org/images/vimlogo.svg" alt="Vim"/> |
 |Shell|<img height="32px" src="https://www.zsh.org/color_vertical_icon.png" alt="zsh"/> + <img height="32px" src="https://ohmyz.sh/img/OMZLogo_BnW.png" alt="oh-my-zsh" /> + powerlevel10k|
