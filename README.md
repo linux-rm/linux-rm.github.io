@@ -1,8 +1,8 @@
+# [👋 Hi there! My nickname is `linux-rm`. (English) ![主站 github](https://img.shields.io/badge/%E4%B8%BB%E7%AB%99-github-black)](https://github.com/linux-rm/linux-rm)
+
+# [👋 嘿,你好! 我的昵称是 `linux-rm`. (中文,Chinese) ![镜像 gitee](https://img.shields.io/badge/%E9%95%9C%E5%83%8F-gitee-red)](https://gitee.com/linux-rm/linux-rm)
+
 ### [Read it in --> https://linux-rm.github.io <-- 在这阅读](https://linux-rm.github.io)
-
-# [Hi there 👋 (English) ![主站 github](https://img.shields.io/badge/%E4%B8%BB%E7%AB%99-github-black)](https://github.com/linux-rm/linux-rm)
-
-# [嘿,你好 👋 (中文,Chinese) ![镜像 gitee](https://img.shields.io/badge/%E9%95%9C%E5%83%8F-gitee-red)](https://gitee.com/linux-rm/linux-rm)
 
 ---
 
