@@ -43,7 +43,7 @@ Samsung Galaxy S21
 > <img src="button/s-.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/poweroff.png" width="15%" /><img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="screen/warning.svg" width="15%" /> <img src="button/+.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/unlock-UI.svg" width="15%"/> <img src="button/+.svg" width="5%" />
 
 请等待一段时间.你可以趁这个时间下载 Odin3 和 SamFirm以及必要组件.
-[![download-button-gitee(latest)](https://img.shields.io/badge/download-gitee_\(latest\)-red)](https://gitee.com/linux-rm/linux-rm/releases/download/Odin3_v3.14.4-SamFirm_v0.5.0/Odin-and-SamFirm.tar.xz)
+[![download-button-gitee(latest)](https://img.shields.io/badge/download-gitee_latest-red)](https://gitee.com/linux-rm/linux-rm/releases/download/Odin3_v3.14.4-SamFirm_v0.5.0/Odin-and-SamFirm.tar.xz)
 [![download-button-kgithub](https://img.shields.io/badge/download-kgithub-black)](https://kgithub.com/linux-rm/linux-rm/raw/main/article/Samsung-magisk-root/Odin-and-SamFirm.tar.xz)
 
 Please wait for a while.You can download Odin3, SamFirm and the necessary components during this time.
@@ -57,7 +57,7 @@ Please wait for a while.You can download Odin3, SamFirm and the necessary compon
 > <img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="screen/warning.svg" width="10%" /> <img src="button/+.svg" width="5%" /><img src="screen/download-mode.jpg" width="10%">
 
 > 点击按钮下载 Odin3 和 SamFirm 以及必要组件.
-> [![download-button-gitee(latest)](https://img.shields.io/badge/download-gitee_\(latest\)-red)](https://gitee.com/linux-rm/linux-rm/releases/download/Odin3_v3.14.4-SamFirm_v0.5.0/Odin-and-SamFirm.tar.xz)
+> [![download-button-gitee(latest)](https://img.shields.io/badge/download-gitee_latest-red)](https://gitee.com/linux-rm/linux-rm/releases/download/Odin3_v3.14.4-SamFirm_v0.5.0/Odin-and-SamFirm.tar.xz)
 > [![download-button-kgithub](https://img.shields.io/badge/download-kgithub-black)](https://kgithub.com/linux-rm/linux-rm/raw/main/article/Samsung-magisk-root/Odin-and-SamFirm.tar.xz)
 >
 > Click button to download Odin3, SamFirm and the necessary components.
