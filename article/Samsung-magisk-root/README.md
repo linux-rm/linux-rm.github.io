@@ -57,22 +57,23 @@ Please wait for a while.You can download Odin3, SamFirm and the necessary compon
 > Click button to download Odin3, SamFirm and the necessary components.
 > [![download-button-github](https://img.shields.io/badge/download-github-black)](https://github.com/linux-rm/linux-rm/raw/main/article/Samsung-magisk-root/Odin-and-SamFirm.tar.xz)
 >
->
->
-> > 解压缩/Unzip
+> > 解压缩并以管理员身份运行/Unzip and run as administrator
 > >
-> > <img src="PC/1.png" width="25%" /><img src="PC/2.png" width="25%" /><img src="PC/3.png" width="25%" /><img src="PC/4.png" width="25%" />
+> > `dotNetFx35setup,SAMSUNG_USB_Driver_for_Mobile_Phones,VC*redist*`
+> >
+> > <img src="PC/1.png"/>
+
+
+
+
+## 5. 下载你的三星手机对应的最新固件./Download the latest firmware for your Samsung phone.
 >
-> > 以管理员身份运行/Run as administrator
-> >
-> > `dotNetFx35setup,SAMSUNG_USB_Driver_for_Mobile_Phones,VC_redist.x64`
-> >
-> > <img src="PC/5.png" width="30%"/><img src="PC/6.png" width="25%" /><img src="PC/7.png" width="10%" /><img src="PC/8.png" width="10%" /><img src="PC/9.svg" width="10%" /><img src="PC/10.png" width="25%" /><img src="PC/11.png" width="10%" /><img src="PC/12.png" width="10%" /><img src="PC/13.png" width="10%" /><img src="PC/14.png" width="10%" /><img src="PC/15.png" width="25%" /><img src="PC/16.png" width="10%" /><img src="PC/17.png" width="10%" /><img src="PC/9.svg" width="10%" />
+> 打开/Open `SamFirm`
+>
+> <img src="PC/2.png" width="50%"/><img src="PC/3.png" width="50%"/>
 
 
-
-
-## 5. 刷入官方系统(先不修补)/Flash into the official system (don't patch it first)
-> 手机关机,进入下载模式/Turn off your phone and enter the download mode.
+## 6. 刷入官方系统(先不修补)/Flash into the official system (don't patch it first)
+> 手机关机,进入下载模式./Turn off your phone and enter the download mode.
 >
 > <img src="button/s-.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/poweroff.png" width="10%" />> <img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="screen/warning.svg" width="10%" /> <img src="button/+.svg" width="5%" /><img src="screen/download-mode.jpg" width="10%">
