@@ -29,19 +29,19 @@
 
 
 	<!-- 按钮 -->
-	<!-- + add -->
+	<!-- + -->
 	<rect width="1"
 		  height="5"
 		  x="5"
 		  y="5"
 		  id="a" />
-	<!--  - minus  -->
+	<!--  -  -->
 	<rect width="1"
 		  height="5"
 		  x="5"
 		  y="11"
 		  id="m" />
-	<!--  s side  -->
+	<!--  s  -->
 	<rect width="1"
 		  height="5"
 		  x="5"
