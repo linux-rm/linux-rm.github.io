@@ -53,9 +53,10 @@ Please wait for a while.You can download [odin3 and SamFirm]() during this time.
 >
 > <img src="button/USB.svg" width="5%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="warning.svg" width="10%" /> <img src="button/+.svg" width="5%" /><img src="download-mode.jpg" width="10%">
 
-> [点击此处下载 Odin3 和 SamFirm 以及必要组件.<br />Click here to download Odin3, SamFirm and the necessary components.]()
+> [点击此处下载 Odin3 和 SamFirm 以及必要组件.<br />Click here to download Odin3, SamFirm and the necessary components.](Odin-and-SamFirm.tar.xz)
 >
 > 安装/Install:
 >
+>
 
-> <img src="button/USB.svg" width="10%" />
+> <img src="button/USB.svg" width="5%" />
