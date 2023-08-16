@@ -71,9 +71,18 @@ Please wait for a while.You can download Odin3, SamFirm and the necessary compon
 > 打开/Open `SamFirm`
 >
 > <img src="PC/2.png" width="50%"/><img src="PC/3.png" width="50%"/>
-
+>
+> __由于下载的固件还需要由软件解密,所以不要以为速度为0kb/s就是下载完了.__
+>
+> __Since the downloaded firmware also needs to be decrypted by the software, do not think that a speed of 0kb/s means that the download is finished.__
+>
+> 等待约半小时/Wait about half an hour
+>
+> <img src="PC/4.png" width="50%"/><img src="PC/5.png" width="50%"/>
+>
+> 解压固件包后你就可以得到三星刷机5件套./After unzipping the firmware package, you can get the Samsung flashing 5-piece set.
 
 ## 6. 刷入官方系统(先不修补)/Flash into the official system (don't patch it first)
 > 手机关机,进入下载模式./Turn off your phone and enter the download mode.
 >
-> <img src="button/s-.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/poweroff.png" width="10%" />> <img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="screen/warning.svg" width="10%" /> <img src="button/+.svg" width="5%" /><img src="screen/download-mode.jpg" width="10%">
+> <img src="button/s-.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/poweroff.png" width="10%" />> <img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="screen/warning.svg" width="15%" /> <img src="button/+.svg" width="5%" /><img src="screen/download-mode.jpg" width="15%">
