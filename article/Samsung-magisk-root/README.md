@@ -36,23 +36,21 @@ Samsung Galaxy S21
 >
 > <img src="关于手机.png" width="20%" /><img src="软件信息.png"  width="20%" /><img src="编译编号.png" width="20%" /><img src="开发者选项.png" width="20%" /><img src="OEM解锁.png" width="20%" />
 
+> 关机并解锁bootloader/Poweroff and unlock bootloader
+>
+> <img src="button/s-.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="关机.png" width="15%" /><img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="warning.svg" width="15%" /> <img src="button/+.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="unlock-UI.svg" width="15%"/> <img src="button/+.svg" width="5%" />
 
-> 关机/Poweroff
->
-> <img src="button/s-.svg" width="10%" /><img src="button/7s.svg" width="10%" /> <img src="关机.png" width="30%" />
+请等待一段时间.你可以趁这个时间下载 [odin3 和 SamFirm]().
 
-> 解锁bootloader/unlock bootloader
->
-> <img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="10%" /><img src="button/7s.svg" width="10%" /><img src="warning.svg" width="25%" />
->
-> <img src="button/+.svg" width="10%" /><img src="button/7s.svg" width="10%" /> <img src="unlock-UI.svg" width="25%"/> <img src="button/+.svg" width="10%" />
-
-你可以趁这个时间下载 [odin3](Odin3_v3.14.4.tar.xz)/You can download [odin3](Odin3_v3.14.4.tar.xz) during this time.
-> 如果出现黄色的感叹号`!`则证明解锁成功
->
-> If an yellow exclamation mark `!` appears, the unlock is successful
+Please wait for a while.You can download [odin3 and SamFirm]() during this time.
 
 ## 4. 刷入官方系统(先不修补)/Flash into the official system (don't patch it first)
 > 再次关机,进入下载模式/Poweroff again and enter download mode.
 >
-> <img src="https://img-blog.csdnimg.cn/9734be165503463ab7401b529b480f60.png" width="10%" /><img src="https://img-blog.csdnimg.cn/8dacb8e080154d8093d9825fdb8f006e.png" width="15%" /><img src="https://img-blog.csdnimg.cn/0e85b0876c604d16aee6204f1b1b3c5b.png" width="10%" /><img src="https://img-blog.csdnimg.cn/d93abf71affc4b44a73bca2dd21425f3.png" width="15%" /><img src="https://img-blog.csdnimg.cn/7d8c30c358084878872aa95e8d18e5ca.png" width="10%" />
+> <img src="button/s-.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="关机.png" width="15%" /><img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="warning.svg" width="15%" /> <img src="button/+.svg" width="5%" /><img src="download-mode.jpg" width="15%">
+
+> [点击此处下载 Odin3 和 SamFirm 以及必要组件.<br />Click here to download Odin3, SamFirm and the necessary components.]()
+>
+>
+
+> <img src="button/USB.svg" width="10%" />
