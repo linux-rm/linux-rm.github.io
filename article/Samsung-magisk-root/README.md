@@ -22,6 +22,8 @@ Samsung Galaxy S21
 	- [4. 计算机上安装必要组件/Install the necessary components on your computer:](#4-计算机上安装必要组件install-the-necessary-components-on-your-computer)
 	- [5. 下载你的三星手机对应的最新固件./Download the latest firmware for your Samsung phone.](#5-下载你的三星手机对应的最新固件download-the-latest-firmware-for-your-samsung-phone)
 	- [6. 刷入官方系统(先不修补)/Flash into the official system (don't patch it first)](#6-刷入官方系统先不修补flash-into-the-official-system-dont-patch-it-first)
+	- [7.正常激活手机,下载Magisk或Magisk Delta./Activate your phone normally and download Magisk or Magisk Delta.](#7正常激活手机下载magisk或magisk-deltaactivate-your-phone-normally-and-download-magisk-or-magisk-delta)
+	- [8. 修补/Patch](#8-修补patch)
 
 ## `!!!!!!警告!!!!!!Warning!!!!!!`
 > > ))) 手机一但root,你会拥有手机所有权,但如果操作不当,就会造成`系统不正常`,`丢失数据`甚至变成`"砖块"`.
@@ -87,6 +89,8 @@ Please wait for a while.You can download Odin3, SamFirm and the necessary compon
 > > `dotNetFx35setup,SAMSUNG_USB_Driver_for_Mobile_Phones,VC*redist*`
 > >
 > > <img src="PC/1.png"/>
+> >
+> > 接下来你的电脑会收到更新重启,一般20分钟就能完成./Your computer will then receive an update restart, which will usually take 20 minutes
 
 
 
@@ -112,5 +116,29 @@ Please wait for a while.You can download Odin3, SamFirm and the necessary compon
 >
 > <img src="button/s-.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/poweroff.png" width="10%" /> <img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="screen/warning.svg" width="15%" /> <img src="button/+.svg" width="5%" /> <img src="screen/download-mode.jpg" width="15%">
 >
-> 在你的计算机上电脑打开 odin3/Open odin3 on your computer
+> 在你的计算机上电脑打开 odin3./Open odin3 on your computer.
 >
+> 将BL,AP,CP,CSC打钩,选择对应前缀的刷机包,注意CSC要选择`CSC_CSC`而不是HOME_CSC
+>
+> Tick BL, AP, CP, CSC, select the flashing package with the corresponding prefix, and note that CSC should select `CSC_CSC` instead of HOME_CSC
+>
+> <img src="PC/6.png"/>
+>
+> 等待5分钟./Wait 5 minutes.
+>
+> 你的手机会清除数据并自动重启./Your phone will clear the data and restart automatically
+>
+> 如果系统能正常进入"欢迎"界面,那么你离root成功又进了一步,否则请[点击返回](#5-下载你的三星手机对应的最新固件download-the-latest-firmware-for-your-samsung-phone)
+>
+> If the system can enter the "Welcome" screen normally, then you are one step closer to root success, otherwise please [click to return](#5-下载你的三星手机对应的最新固件download-the-latest-firmware-for-your-samsung-phone)
+
+## 7.正常激活手机,下载Magisk或Magisk Delta./Activate your phone normally and download Magisk or Magisk Delta.
+
+URL:
+- Magisk: https://github.com/topjohnwu/Magisk/releases
+- Magisk Delta: https://huskydg.github.io/magisk-files/app-debug.apk
+
+## 8. 修补/Patch
+> 打开/Open Magisk(Delta)
+>
+> 先点击
