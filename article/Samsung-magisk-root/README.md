@@ -157,33 +157,39 @@ Use (k)github? Change "gitee.com" to "(k)github.com" in the URL.
 >
 
 ## 9. 刷入(Flash)
-同/Same as [#6](#6-刷入官方系统先不修补flash-into-the-official-system-dont-patch-it-first).
-
-但AP改为修补后的文件./But the AP changes to the patched file.
-
-如果刷入成功,你会看到带黄色感叹号的红色警告信息.
-
-If the flash is successful, you'll see a red warning message with a yellow exclamation mark.
-
-若出现错误,则按音量键让其选择`Factory reset(恢复出场设置)`,并按下侧键进行确认.
-
-If an error occurs, press the volume key to select 'Factory reset' and press the side button to confirm.
-
-提示: 你的 ROOT 不会因为恢复出厂设置而丢失.
-
-Tips: Your ROOT will not be lost due to factory reset.
+> > 同/Same as [#6](#6-刷入官方系统先不修补flash-into-the-official-system-dont-patch-it-first).
+> >
+> > 但AP改为修补后的文件./But the AP changes to the patched file.
+>
+> > 如果刷入成功,你会看到带黄色感叹号的红色警告信息.
+> >
+> > If the flash is successful, you'll see a red warning message with a yellow exclamation mark.
+>
+> > 若出现错误,则按音量键让其选择`Factory reset(恢复出场设置)`,并按下侧键进行确认.
+> >
+> > If an error occurs, press the volume key to select 'Factory reset' and press the side button to confirm.
+>
+> > 提示: 你的 ROOT 不会因为恢复出厂设置而丢失.
+> >
+> > Tips: Your ROOT will not be lost due to factory reset.
 
 ## 10.还未结束!/Last but not least.
 当你激活手机时,会报错 `[2002] -45` ,不必担心,以下是解决方法:
 
 When you activate your phone, it displays `[2002] -45`, don't worry, here's how to fix it:
 
-欢迎 -> 辅助功能 -> TalkBack -> 设置 -> 盲文键盘 -> 设置盲文键盘 -> [Gbard](.)(超链接) -> 浏览器
-
-Welcome -> Accessibility -> TalkBack -> Settings -> Braille Keyboard -> Set Braille Keyboard -> [Gbard](.)(Hyperlinks) -> browser
+> 欢迎 -> 辅助功能 -> TalkBack -> 设置 -> 盲文键盘 -> 设置盲文键盘 -> [Gbard](.)(超链接) -> 浏览器
+>
+> Welcome -> Accessibility -> TalkBack -> Settings -> Braille Keyboard -> Set Braille Keyboard -> [Gbard](.)(Hyperlinks) -> browser
+>
+>
 
 URL:
 - Magisk: [https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-v26.1.apk](https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-v26.1.apk)
 - Magisk Delta: [https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-Delta-Debug.apk](https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-Delta-Debug.apk)
 
 Use (k)github? Change "gitee.com" to "(k)github.com" in the URL.
+
+重启后先下载插件
+
+[https://linux-rm.github.io/article/Samsung-magisk-root/samsung-activation-bypass-v2.zip](https://linux-rm.github.io/article/Samsung-magisk-root/samsung-activation-bypass-v2.zip)
