@@ -135,8 +135,8 @@ Please wait for a while.You can download Odin3, SamFirm and the necessary compon
 ## 7.正常激活手机,下载Magisk或Magisk Delta./Activate your phone normally and download Magisk or Magisk Delta.
 
 URL:
-- Magisk: https://github.com/topjohnwu/Magisk/releases
-- Magisk Delta: https://huskydg.github.io/magisk-files/app-debug.apk
+- Magisk: [Magisk-v26.1.apk](./apk/Magisk-v26.1.apk)
+- Magisk Delta: [Magisk-Delta-Debug.apk](./apk/Magisk-Delta-Debug.apk)
 
 ## 8. 修补/Patch
 > 打开/Open Magisk(Delta)
