@@ -135,10 +135,16 @@ Please wait for a while.You can download Odin3, SamFirm and the necessary compon
 ## 7.正常激活手机,下载Magisk或Magisk Delta./Activate your phone normally and download Magisk or Magisk Delta.
 
 URL:
-- Magisk: [Magisk-v26.1.apk](./apk/Magisk-v26.1.apk)
-- Magisk Delta: [Magisk-Delta-Debug.apk](./apk/Magisk-Delta-Debug.apk)
+- Magisk: https://gitee.com/linux-rm/linux-rm/raw/main/article/Samsung-magisk-root/apk/Magisk-v26.1.apk
+- Magisk Delta: https://gitee.com/linux-rm/linux-rm/raw/main/article/Samsung-magisk-root/apk/Magisk-Delta-Debug.apk
+
+Use github?Change "gitee.com" to "github.com" in the URL.
 
 ## 8. 修补/Patch
+> 在电脑上复制AP文件到手机/Copy the AP file on the computer to the phone.
+>
+>
+>
 > 打开/Open Magisk(Delta)
 >
 > 先点击
