@@ -176,5 +176,6 @@ Tips: Your ROOT will not be lost due to factory reset.
 ## 10.还未结束!/Last but not least.
 当你激活手机时,会报错 `[2002] -45` ,不必担心,以下是解决方法:
 
-When you activate your phone, it says '[2002] -45', don't worry, here's how to fix it:
+When you activate your phone, it displays `[2002] -45`, don't worry, here's how to fix it:
+
 
