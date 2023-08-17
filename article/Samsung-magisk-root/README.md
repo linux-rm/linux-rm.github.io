@@ -24,6 +24,8 @@ Samsung Galaxy S21
 	- [6. 刷入官方系统(先不修补)/Flash into the official system (don't patch it first)](#6-刷入官方系统先不修补flash-into-the-official-system-dont-patch-it-first)
 	- [7.正常激活手机,下载Magisk或Magisk Delta./Activate your phone normally and download Magisk or Magisk Delta.](#7正常激活手机下载magisk或magisk-deltaactivate-your-phone-normally-and-download-magisk-or-magisk-delta)
 	- [8. 修补/Patch](#8-修补patch)
+	- [9. 刷入(Flash)](#9-刷入flash)
+	- [10.还未结束!/Last but not least.](#10还未结束last-but-not-least)
 
 ## `!!!!!!警告!!!!!!Warning!!!!!!`
 > > ))) 手机一但root,你会拥有手机所有权,但如果操作不当,就会造成`系统不正常`,`丢失数据`甚至变成`"砖块"`.
@@ -153,4 +155,26 @@ Use (k)github? Change "gitee.com" to "(k)github.com" in the URL.
 >
 > Path: /storage/emulated/0/Download/magisk_patch-xxx
 >
->
+
+## 9. 刷入(Flash)
+同/Same as [#6](#6-刷入官方系统先不修补flash-into-the-official-system-dont-patch-it-first).
+
+但AP改为修补后的文件./But the AP changes to the patched file.
+
+如果刷入成功,你会看到带黄色感叹号的警告信息.
+
+If the flash is successful, you'll see a warning message with a yellow exclamation mark.
+
+若出现错误,则按音量键让其选择`Factory reset(恢复出场设置)`,并按下侧键进行确认.
+
+If an error occurs, press the volume key to select 'Factory reset' and press the side button to confirm.
+
+提示: 你的 ROOT 不会因为恢复出厂设置而丢失.
+
+Tips: Your ROOT will not be lost due to factory reset.
+
+## 10.还未结束!/Last but not least.
+当你激活手机时,会报错 `[2002] -45` ,不必担心,以下是解决方法:
+
+When you activate your phone, it says '[2002] -45', don't worry, here's how to fix it:
+
