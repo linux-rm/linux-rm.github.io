@@ -135,16 +135,22 @@ Please wait for a while.You can download Odin3, SamFirm and the necessary compon
 ## 7.正常激活手机,下载Magisk或Magisk Delta./Activate your phone normally and download Magisk or Magisk Delta.
 
 URL:
-- Magisk: https://gitee.com/linux-rm/linux-rm/raw/main/article/Samsung-magisk-root/apk/Magisk-v26.1.apk
-- Magisk Delta: https://gitee.com/linux-rm/linux-rm/raw/main/article/Samsung-magisk-root/apk/Magisk-Delta-Debug.apk
+- Magisk: [https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-v26.1.apk](https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-v26.1.apk)
+- Magisk Delta: [https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-Delta-Debug.apk](https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-Delta-Debug.apk)
 
-Use github?Change "gitee.com" to "github.com" in the URL.
+Use (k)github? Change "gitee.com" to "(k)github.com" in the URL.
 
 ## 8. 修补/Patch
 > 在电脑上复制AP文件到手机/Copy the AP file on the computer to the phone.
 >
+> <img src="screen/复制AP.png">
+>
+> 打开/Open Magisk(Delta)<img src="screen/Magisk-Delta.png" width="5%">
+>
+> <img src="screen/安装.png" width="20%"><img src="screen/选择并修补一个文件.png" width="20%"><img src="screen/选择文件.png" width="20%"><img src="screen/开始修补.png" width="20%"><img src="screen/修补完成.png" width="20%">
+>
+> 把修补后的文件复制到电脑上./Copy the patched files to your computer.
+>
+> Path: /storage/emulated/0/Download/magisk_patch-xxx
 >
 >
-> 打开/Open Magisk(Delta)
->
-> 先点击
