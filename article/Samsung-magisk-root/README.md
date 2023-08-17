@@ -161,9 +161,9 @@ Use (k)github? Change "gitee.com" to "(k)github.com" in the URL.
 
 但AP改为修补后的文件./But the AP changes to the patched file.
 
-如果刷入成功,你会看到带黄色感叹号的警告信息.
+如果刷入成功,你会看到带黄色感叹号的红色警告信息.
 
-If the flash is successful, you'll see a warning message with a yellow exclamation mark.
+If the flash is successful, you'll see a red warning message with a yellow exclamation mark.
 
 若出现错误,则按音量键让其选择`Factory reset(恢复出场设置)`,并按下侧键进行确认.
 
