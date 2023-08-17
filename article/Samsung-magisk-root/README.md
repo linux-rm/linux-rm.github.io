@@ -178,4 +178,12 @@ Tips: Your ROOT will not be lost due to factory reset.
 
 When you activate your phone, it displays `[2002] -45`, don't worry, here's how to fix it:
 
+欢迎 -> 辅助功能 -> TalkBack -> 设置 -> 盲文键盘 -> 设置盲文键盘 -> [Gbard](.)(超链接) -> 浏览器
 
+Welcome -> Accessibility -> TalkBack -> Settings -> Braille Keyboard -> Set Braille Keyboard -> [Gbard](.)(Hyperlinks) -> browser
+
+URL:
+- Magisk: [https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-v26.1.apk](https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-v26.1.apk)
+- Magisk Delta: [https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-Delta-Debug.apk](https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-Delta-Debug.apk)
+
+Use (k)github? Change "gitee.com" to "(k)github.com" in the URL.
