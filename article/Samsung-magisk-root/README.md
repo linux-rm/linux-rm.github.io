@@ -116,7 +116,7 @@ Please wait for a while.You can download Odin3, SamFirm and the necessary compon
 ## 6. 刷入官方系统(先不修补)/Flash into the official system (don't patch it first)
 > 手机关机,进入下载模式./Turn off your phone and enter the download mode.
 >
-> <img src="button/s-.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/poweroff.png" width="10%" /> <img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="screen/warning.svg" width="15%" /> <img src="button/+.svg" width="5%" /> <img src="screen/download-mode.jpg" width="15%">
+> <img src="button/s-.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/poweroff.png" width="10%" /> <img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="screen/warning.svg" width="15%" /> <img src="button/+.svg" width="5%" /> <img src="screen/download-mode.png" width="15%">
 >
 > 在你的计算机上电脑打开 odin3./Open odin3 on your computer.
 >
@@ -182,7 +182,7 @@ When you activate your phone, it displays `[2002] -45`, don't worry, here's how 
 >
 > Welcome -> Accessibility -> TalkBack -> Settings -> Braille Keyboard -> Set Braille Keyboard -> [Gbard](.)(Hyperlinks) -> browser
 >
->
+> <img src="screen/欢迎.png" width="10%" /><img src="screen/辅助功能.png" width="10%" /><img src="screen/TalkBack.png" width="10%" /><img src="screen/TalkBack-设置.png" width="10%" /><img src="screen/盲文键盘.png" width="10%" /><img src="screen/Gboard.png" width="10%" /><img src="screen/三星浏览器.png" width="10%" /><img src="screen/三星浏览器个人信息.png" width="10%" /><img src="screen/三星浏览器权限.png" width="10%" /><img src="screen/新闻资讯.png" width="10%" />
 
 URL:
 - Magisk: [https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-v26.1.apk](https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-v26.1.apk)
@@ -190,6 +190,8 @@ URL:
 
 Use (k)github? Change "gitee.com" to "(k)github.com" in the URL.
 
-重启后先下载插件
+> 重启后下载插件:
+>
+> Download the plugin after rebooting:
 
 [https://linux-rm.github.io/article/Samsung-magisk-root/samsung-activation-bypass-v2.zip](https://linux-rm.github.io/article/Samsung-magisk-root/samsung-activation-bypass-v2.zip)
