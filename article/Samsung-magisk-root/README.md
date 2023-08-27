@@ -184,14 +184,20 @@ When you activate your phone, it displays `[2002] -45`, don't worry, here's how 
 >
 > <img src="screen/欢迎.png" width="10%" /><img src="screen/辅助功能.png" width="10%" /><img src="screen/TalkBack.png" width="10%" /><img src="screen/TalkBack-设置.png" width="10%" /><img src="screen/盲文键盘.png" width="10%" /><img src="screen/Gboard.png" width="10%" /><img src="screen/三星浏览器.png" width="10%" /><img src="screen/三星浏览器个人信息.png" width="10%" /><img src="screen/三星浏览器权限.png" width="10%" /><img src="screen/新闻资讯.png" width="10%" />
 
-URL:
+输入 URL:
+
+Type URL:
 - Magisk: [https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-v26.1.apk](https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-v26.1.apk)
 - Magisk Delta: [https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-Delta-Debug.apk](https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-Delta-Debug.apk)
 
 Use (k)github? Change "gitee.com" to "(k)github.com" in the URL.
 
-> 重启后下载插件:
+> 重启后下载并安装插件:
 >
-> Download the plugin after rebooting:
+> Download and install the plugin after rebooting:
 
 [https://linux-rm.github.io/article/Samsung-magisk-root/samsung-activation-bypass-v2.zip](https://linux-rm.github.io/article/Samsung-magisk-root/samsung-activation-bypass-v2.zip)
+
+您可以使用 root 了.
+
+You can use the root.
