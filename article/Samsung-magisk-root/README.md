@@ -48,14 +48,14 @@ Samsung Galaxy S21
 ## 1. 备份/backup
 [已经备份了(或我想删除数据)(点此跳过)/Already backed up (or I want to delete data)(click here to skip)](#2-退出账户logout非常重要very-important)
 
-> ||| 经过本人测试,[三星云](https://support.samsungcloud.com)在root后仍可以`正常使用`,所以你可以使用三星云进行备份,但`应用数据会丢失`.(包括账户信息,游戏进度,聊天记录等)
+> * ||| 经过本人测试,[三星云](https://support.samsungcloud.com)在root后仍可以`正常使用`,所以你可以使用三星云进行备份,但`应用数据会丢失`.(包括账户信息,游戏进度,聊天记录等)
 >
-> ||| After my own test, [Samsung Cloud](https://support.samsungcloud.com) can still be `used normally` after rooting, so you can use Samsung Cloud for backup, but `application data will be lost`. (including account information, game progress, chat history, etc.)
+> * ||| After my own test, [Samsung Cloud](https://support.samsungcloud.com) can still be `used normally` after rooting, so you can use Samsung Cloud for backup, but `application data will be lost`. (including account information, game progress, chat history, etc.)
 >
-> <img src="screen/备份.png" width="10%" /> <img src="screen/三星云.png" width="10%" />
+> <img src="screen/备份.png" width="20%" /> <img src="screen/三星云.png" width="20%" />
 
 ## 2. `退出账户/logout(非常重要/very important)`
-> <img src="screen/退出账户.png" width="10%" />
+> <img src="screen/退出账户.png" width="20%" />
 
 ## 3. 解锁/unlock
 [已经解锁bootloader(点此跳过)/Already unlocked bootloader (click here to skip)](#4-计算机上安装必要组件install-the-necessary-components-on-your-computer)
@@ -64,18 +64,17 @@ Samsung Galaxy S21
 >
 > ||| Settings -> Developer options(About phone -> Software information -> Build number_3 times) -> OEM unlocking
 >
-> <img src="screen/关于手机.png" width="10%" /><img src="screen/软件信息.png"  width="10%" /><img src="screen/编译编号.png" width="10%" /><img src="screen/开发者选项.png" width="10%" /><img src="screen/OEM解锁.png" width="10%" />
+> <img src="screen/关于手机.png" width="20%" /><img src="screen/软件信息.png"  width="20%" /><img src="screen/编译编号.png" width="20%" /><img src="screen/开发者选项.png" width="20%" /><img src="screen/OEM解锁.png" width="20%" />
 
 > 关机并解锁bootloader/Poweroff and unlock bootloader
 >
 > <img src="button/s-.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/poweroff.png" width="15%" /><img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="screen/warning.svg" width="15%" /> <img src="button/+.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/unlock-UI.svg" width="15%"/> <img src="button/+.svg" width="5%" />
 
 请等待一段时间.你可以趁这个时间下载 Odin3 和 SamFirm以及必要组件.
-[![download-button-gitee(latest)](https://img.shields.io/badge/download-gitee_latest-red)](https://gitee.com/linux-rm/linux-rm/releases/download/Odin3_v3.14.4-SamFirm_v0.5.0/Odin-and-SamFirm.tar.xz)
-[![download-button-kgithub](https://img.shields.io/badge/download-kgithub-black)](https://kgithub.com/linux-rm/linux-rm/raw/main/article/Samsung-magisk-root/Odin-and-SamFirm.tar.xz)
+
 
 Please wait for a while.You can download Odin3, SamFirm and the necessary components during this time.
-[![download-button-github](https://img.shields.io/badge/download-github-black)](https://github.com/linux-rm/linux-rm/raw/main/article/Samsung-magisk-root/Odin-and-SamFirm.tar.xz)
+
 
 ## 4. 计算机上安装必要组件/Install the necessary components on your computer:
 >
@@ -103,9 +102,9 @@ Please wait for a while.You can download Odin3, SamFirm and the necessary compon
 >
 > <img src="PC/2.png" width="50%"/><img src="PC/3.png" width="50%"/>
 >
-> __由于下载的固件还需要由软件解密,所以不要以为速度为0kb/s就是下载完了.__
+> * !!! __`由于下载的固件还需要由软件解密,所以不要以为速度为0kb/s就是下载完了.`__
 >
-> __Since the downloaded firmware also needs to be decrypted by the software, do not think that a speed of 0kb/s means that the download is finished.__
+> * !!! __`Since the downloaded firmware also needs to be decrypted by the software, do not think that a speed of 0kb/s means that the download is finished.`__
 >
 > 等待约半小时/Wait about half an hour
 >
@@ -147,8 +146,9 @@ Use (k)github? Change "gitee.com" to "(k)github.com" in the URL.
 >
 > <img src="screen/复制AP.png">
 >
-> 打开/Open Magisk(Delta)<img src="screen/Magisk-Delta.png" width="5%">
+> 打开/Open Magisk(Delta)
 >
+> <img src="screen/Magisk-Delta.png" width="20%">
 > <img src="screen/安装.png" width="20%"><img src="screen/选择并修补一个文件.png" width="20%"><img src="screen/选择文件.png" width="20%"><img src="screen/开始修补.png" width="20%"><img src="screen/修补完成.png" width="20%">
 >
 > 把修补后的文件复制到电脑上./Copy the patched files to your computer.
@@ -184,19 +184,19 @@ When you activate your phone, it displays `[2002] -45`, don't worry, here's how 
 >
 > <img src="screen/欢迎.png" width="10%" /><img src="screen/辅助功能.png" width="10%" /><img src="screen/TalkBack.png" width="10%" /><img src="screen/TalkBack-设置.png" width="10%" /><img src="screen/盲文键盘.png" width="10%" /><img src="screen/Gboard.png" width="10%" /><img src="screen/三星浏览器.png" width="10%" /><img src="screen/三星浏览器个人信息.png" width="10%" /><img src="screen/三星浏览器权限.png" width="10%" /><img src="screen/新闻资讯.png" width="10%" />
 
-输入 URL:
-
-Type URL:
-- Magisk: [https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-v26.1.apk](https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-v26.1.apk)
-- Magisk Delta: [https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-Delta-Debug.apk](https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-Delta-Debug.apk)
-
-Use (k)github? Change "gitee.com" to "(k)github.com" in the URL.
-
-> 重启后下载并安装插件:
+> 输入 URL 下载并安装:
 >
-> Download and install the plugin after rebooting:
+> Enter the URL to download and install:
+>
+> Magisk Delta: https://linux-rm.github.io/link/1
 
-[https://linux-rm.github.io/article/Samsung-magisk-root/samsung-activation-bypass-v2.zip](https://linux-rm.github.io/article/Samsung-magisk-root/samsung-activation-bypass-v2.zip)
+> <img src="screen/Magisk-Delta.png" width="25%"><img src="screen/修复环境.png" width="25%" /><img src="screen/最后安装.png" width="25%" /><img src="screen/结束.png" width="25%" />
+
+> 重启后下载并安装模块:
+>
+> Download and install the module after rebooting:
+>
+> https://linux-rm.github.io/link/2
 
 您可以使用 root 了.
 
