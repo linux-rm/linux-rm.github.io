@@ -75,15 +75,17 @@ Samsung Galaxy S21
 
 Please wait for a while.You can download Odin3, SamFirm and the necessary components during this time.
 
+[![Download Odin3, SamFirm & necessary components(必要组件)](https://img.shields.io/badge/Download-Odin3,_SamFirm_&_necessary_components(必要组件)-blue)](https://linux-rm.github.io/link/3)
+https://linux-rm.github.io/link/3
 
 ## 4. 计算机上安装必要组件/Install the necessary components on your computer:
 >
-> 点击按钮下载 Odin3 和 SamFirm 以及必要组件.
-> [![download-button-gitee(latest)](https://img.shields.io/badge/download-gitee_latest-red)](https://gitee.com/linux-rm/linux-rm/releases/download/Odin3_v3.14.4-SamFirm_v0.5.0/Odin-and-SamFirm.tar.xz)
-> [![download-button-kgithub](https://img.shields.io/badge/download-kgithub-black)](https://kgithub.com/linux-rm/linux-rm/raw/main/article/Samsung-magisk-root/Odin-and-SamFirm.tar.xz)
+> 下载 Odin3 和 SamFirm 以及必要组件.
 >
-> Click button to download Odin3, SamFirm and the necessary components.
-> [![download-button-github](https://img.shields.io/badge/download-github-black)](https://github.com/linux-rm/linux-rm/raw/main/article/Samsung-magisk-root/Odin-and-SamFirm.tar.xz)
+> Download Odin3, SamFirm and the necessary components.
+>
+> [![Download Odin3, SamFirm & necessary components(必要组件)](https://img.shields.io/badge/Download-Odin3,_SamFirm_&_necessary_components(必要组件)-blue)](https://linux-rm.github.io/link/3)
+https://linux-rm.github.io/link/3
 >
 > > 解压缩并以管理员身份运行/Unzip and run as administrator:
 > >
@@ -135,11 +137,8 @@ Please wait for a while.You can download Odin3, SamFirm and the necessary compon
 
 ## 7.正常激活手机,下载Magisk或Magisk Delta./Activate your phone normally and download Magisk or Magisk Delta.
 
-URL:
-- Magisk: [https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-v26.1.apk](https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-v26.1.apk)
-- Magisk Delta: [https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-Delta-Debug.apk](https://gitee.com/linux-rm/linux-rm/releases/download/magisk/Magisk-Delta-Debug.apk)
-
-Use (k)github? Change "gitee.com" to "(k)github.com" in the URL.
+[![Download Magisk Delta](https://img.shields.io/badge/Download-Magisk_Delta-red)](https://linux-rm.github.io/link/1)
+https://linux-rm.github.io/link/1
 
 ## 8. 修补/Patch
 > 在电脑上复制AP文件到手机/Copy the AP file on the computer to the phone.
@@ -188,7 +187,8 @@ When you activate your phone, it displays `[2002] -45`, don't worry, here's how 
 >
 > Enter the URL to download and install:
 >
-> Magisk Delta: https://linux-rm.github.io/link/1
+> [![Download Magisk Delta](https://img.shields.io/badge/Download-Magisk_Delta-red)](https://linux-rm.github.io/link/1)
+https://linux-rm.github.io/link/1
 
 > <img src="screen/Magisk-Delta.png" width="25%"><img src="screen/修复环境.png" width="25%" /><img src="screen/最后安装.png" width="25%" /><img src="screen/结束.png" width="25%" />
 
@@ -196,7 +196,8 @@ When you activate your phone, it displays `[2002] -45`, don't worry, here's how 
 >
 > Download and install the module after rebooting:
 >
-> https://linux-rm.github.io/link/2
+> [![Download samsung-activation-bypass-v2 module](https://img.shields.io/badge/Download-samsung--activation--bypass--v2_module-green)](https://linux-rm.github.io/link/2)
+https://linux-rm.github.io/link/2
 
 您可以使用 root 了.
 
