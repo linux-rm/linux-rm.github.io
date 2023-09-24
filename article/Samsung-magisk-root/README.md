@@ -148,7 +148,7 @@ https://linux-rm.github.io/link/1
 > 打开/Open Magisk(Delta)
 >
 > <img src="screen/Magisk-Delta.png" width="20%">
-> <img src="screen/安装.png" width="20%"><img src="screen/选择并修补一个文件.png" width="20%"><img src="screen/选择文件.png" width="20%"><img src="screen/开始修补.png" width="20%"><img src="screen/修补完成.png" width="20%">
+> <img src="screen/安装.svg" width="20%"><img src="screen/选择并修补一个文件.png" width="20%"><img src="screen/选择文件.png" width="20%"><img src="screen/开始修补.png" width="20%"><img src="screen/修补完成.png" width="20%">
 >
 > 把修补后的文件复制到电脑上./Copy the patched files to your computer.
 >

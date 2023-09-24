@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg version="1.1"
+	 width="1085"
+	 height="2220"
+	 viewBox="0 0 1085 2220"
+	 xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="http://www.w3.org/2000/svg"
+	 xmlns:svg="http://www.w3.org/2000/svg">
+	<style>
+		text,
+		tspan {
+			font-family: 'Samsung Sharp Sans';
+		}
+	</style>
+
+
+	<text style="font-size:144px;fill:#4b4b4b;"
+		  x="646"
+		  y="2225">
+		<tspan x="646"
+			   y="2225">*</tspan>
+	</text>
+	<text style="font-size:40px;fill:#4b4b4b;"
+		  x="32"
+		  y="77">
+		<tspan x="32"
+			   y="77"
+			   style="font-size:40px;fill:#4b4b4b;">Home</tspan>
+	</text>
+	<rect style="fill:#ececec;"
+		  width="1014"
+		  height="273"
+		  x="32"
+		  y="153"
+		  ry="20"
+		  rx="20" />
+	<rect style="fill:#ececec;"
+		  width="1014"
+		  height="273"
+		  x="32"
+		  y="460"
+		  ry="20"
+		  rx="20" />
+	<rect style="fill:#ececec;"
+		  width="1014"
+		  height="273"
+		  x="32"
+		  y="766"
+		  ry="20"
+		  rx="20" />
+	<rect style="fill:#ececec;"
+		  width="1014"
+		  height="695"
+		  x="32"
+		  y="1065"
+		  ry="20"
+		  rx="20" />
+	<text style="font-size:32px;fill:#5aace7;"
+		  x="205"
+		  y="230">
+		<tspan x="205"
+			   y="230"
+			   style="font-size:32px;fill:#5aace7;">Magisk</tspan>
+	</text>
+	<text style="font-size:72px;text-anchor:middle;fill:#ff0000;"
+		  x="850"
+		  y="240">
+		<tspan x="850"
+			   y="240"
+			   style="font-size:72px">安装(Install)</tspan>
+	</text>
+	<text style="font-size:32px;text-anchor:middle;fill:#4b4b4b;"
+		  x="100"
+		  y="320">
+		<tspan x="100"
+			   y="320"
+			   style="font-size:32px;text-anchor:start">xx xxx</tspan>
+		<tspan x="100"
+			   y="352"
+			   style="font-size:32px;text-anchor:start">xx xxx</tspan>
+		<tspan x="100"
+			   y="384"
+			   style="font-size:32px;text-anchor:start">xx xxx</tspan>
+	</text>
+	<text style="font-size:32px;text-anchor:middle;fill:#4b4b4b;"
+		  x="100"
+		  y="627">
+		<tspan x="100"
+			   y="627"
+			   style="font-size:32px;text-anchor:start">xx xxx</tspan>
+		<tspan x="100"
+			   y="659"
+			   style="font-size:32px;text-anchor:start">xx xxx</tspan>
+		<tspan x="100"
+			   y="691"
+			   style="font-size:32px;text-anchor:start">xx xxx</tspan>
+	</text>
+	<text style="font-size:144px;fill:#4b4b4b;"
+		  x="66"
+		  y="841">
+		<tspan x="66"
+			   y="841"
+			   style="font-size:144px;fill:#4b4b4b;">......</tspan>
+	</text>
+	<text style="font-size:144px;fill:#4b4b4b;"
+		  x="66"
+		  y="1141">
+		<tspan x="66"
+			   y="1141"
+			   style="font-size:144px;fill:#4b4b4b;">......</tspan>
+	</text>
+	<text style="font-size:144px;fill:#5aace7;"
+		  x="105"
+		  y="2225">
+		<tspan x="105"
+			   y="2225">*</tspan>
+	</text>
+	<text style="font-size:144px;fill:#ececec;"
+		  x="374"
+		  y="2225">
+		<tspan x="374"
+			   y="2225">*</tspan>
+	</text>
+	<text style="font-size:144px;fill:#ececec;"
+		  x="912"
+		  y="2225">
+		<tspan x="912"
+			   y="2225">*</tspan>
+	</text>
+	<text style="font-size:48px;fill:#5aace7;"
+		  x="204"
+		  y="548">
+		<tspan x="204"
+			   y="548"
+			   style="font-size:48px">XXX</tspan>
+	</text>
+
+</svg>
