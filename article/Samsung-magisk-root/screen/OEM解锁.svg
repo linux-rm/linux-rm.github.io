@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg version="1.1"
+	 width="1080"
+	 height="2220"
+	 viewBox="0 0 1080 2220"
+	 xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="http://www.w3.org/2000/svg"
+	 xmlns:svg="http://www.w3.org/2000/svg">
+
+	<style>
+		svg {
+			background-color: #f6f6f6;
+		}
+
+		text,
+		tspan {
+			font-family: 'Samsung Sharp Sans';
+			fill: #010101;
+		}
+	</style>
+
+	<text style="font-size:42px;">
+		<tspan x="120"
+			   y="120">开发者选项(Devlop options)</tspan>
+		<tspan x="50"
+			   y="250">开(on)</tspan>
+		<tspan x="50"
+			   y="1184"
+			   style="font-size:36px;">OEM unlocking</tspan>
+	</text>
+
+	<rect style="fill:#0481ff;"
+		  width="60"
+		  height="39"
+		  x="945"
+		  y="210"
+		  rx="20"
+		  ry="20" />
+	<circle style="fill:#ffffff;stroke:#0481ff;"
+			cx="1001"
+			cy="231"
+			r="21" />
+	<rect style="fill:#0481ff;"
+		  width="60"
+		  height="39"
+		  x="943"
+		  y="1169"
+		  rx="20"
+		  ry="20" />
+	<circle style="fill:#ffffff;stroke:#0481ff;"
+			cx="998.96344"
+			cy="1188.5"
+			r="21" />
+</svg>

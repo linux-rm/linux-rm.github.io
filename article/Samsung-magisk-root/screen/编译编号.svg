@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg version="1.1"
+	 width="1080"
+	 height="2220"
+	 viewBox="0 0 1080 2220"
+	 xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="http://www.w3.org/2000/svg"
+	 xmlns:svg="http://www.w3.org/2000/svg">
+
+	<style>
+		svg {
+			background-color: #f6f6f6;
+		}
+
+		text,
+		tspan {
+			font-family: 'Samsung Sharp Sans';
+			fill: #010101;
+			font-size: 48px;
+		}
+
+		path {
+			fill: none;
+		}
+	</style>
+
+	<rect style="fill:#e2e2e2"
+		  width="1080"
+		  height="148"
+		  x="0"
+		  y="945" />
+
+	<path style="stroke:#e8e8e8;stroke-width:3"
+		  d="m 42,618.5 h 996" />
+	<path style="stroke:#e8e8e8;stroke-width:3"
+		  d="m 42,766.5 h 996" />
+	<path style="stroke:#cfcfcf;stroke-width:3"
+		  d="m 42,946.5 h 996" />
+	<path style="stroke:#e8e8e8;stroke-width:3;"
+		  d="m 42,1094.5 h 996" />
+	<path style="stroke:#e8e8e8;stroke-width:3"
+		  d="m 42,1306.5 h 996" />
+	<path style="stroke:#e8e8e8;stroke-width:3"
+		  d="m 42,1582.5 h 996" />
+
+	<rect style="fill:#4d4d4d;"
+		  width="468"
+		  height="94"
+		  x="306"
+		  y="1992"
+		  ry="50"
+		  rx="50" />
+
+	<text>
+		<tspan x="100"
+			   y="120"
+			   style="font-size:42px;">软件信息(software information)</tspan>
+		<tspan x="50.84"
+			   y="1160">xxx</tspan>
+		<tspan x="52"
+			   y="690">xxx</tspan>
+		<tspan x="50"
+			   y="1015"
+			   style="fill:#ff0000">编译编号(Build number)</tspan>
+		<tspan x="50"
+			   y="1063"
+			   style="fill:#ff0000">xxxxxxxx</tspan>
+		<tspan x="52"
+			   y="840">xxx</tspan>
+		<tspan x="52"
+			   y="1375">xxx</tspan>
+		<tspan x="500"
+			   y="2050"
+			   style="fill:#ffffff">xxx</tspan>
+	</text>
+</svg>

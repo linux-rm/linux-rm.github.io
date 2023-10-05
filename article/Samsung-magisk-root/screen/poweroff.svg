@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg version="1.1"
+	 width="1080"
+	 height="2400"
+	 viewBox="0 0 1080 2400"
+	 xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="http://www.w3.org/2000/svg"
+	 xmlns:svg="http://www.w3.org/2000/svg">
+
+	<style>
+		svg {
+			background-color: #f6f6f6;
+		}
+
+		text,
+		tspan {
+			font-family: 'Samsung Sharp Sans';
+			fill: #010101;
+			font-size: 64px;
+		}
+
+		path {
+			fill: none;
+		}
+	</style>
+
+	<rect style="fill:#5e5e5e;fill-opacity:1;stroke-width:3;stroke-linecap:square;paint-order:stroke markers fill"
+		  width="131"
+		  height="131"
+		  x="474"
+		  y="675"
+		  rx="50"
+		  ry="50" />
+	<rect style="fill:#14a866;fill-opacity:1;stroke-width:3;stroke-linecap:square;paint-order:stroke markers fill"
+		  width="131"
+		  height="131"
+		  x="474"
+		  y="957"
+		  rx="50"
+		  ry="50" />
+	<rect style="fill:#db332a;fill-opacity:1;stroke-width:3;stroke-linecap:square;paint-order:stroke markers fill"
+		  width="131"
+		  height="131"
+		  x="474"
+		  y="1239"
+		  rx="50"
+		  ry="50" /><text xml:space="preserve"
+		  style="font-size:64px;line-height:1;font-family:'Samsung Sharp Sans';-inkscape-font-specification:'Samsung Sharp Sans';fill:#ff0000;fill-opacity:1;stroke-width:3;stroke-linecap:square;paint-order:stroke markers fill"
+		  x="537.54395"
+		  y="848.76001">
+		<tspan x="305"
+			   y="850"
+			   style="font-size:64px;fill:#ff0000;">关机(Poweroff)</tspan>
+	</text>
+</svg>

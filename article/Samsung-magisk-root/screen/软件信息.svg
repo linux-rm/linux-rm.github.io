@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg version="1.1"
+	 width="1080"
+	 height="661"
+	 viewBox="0 0 1080 661"
+	 xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="http://www.w3.org/2000/svg"
+	 xmlns:svg="http://www.w3.org/2000/svg">
+
+	<style>
+		svg {
+			background-color: #f6f6f6;
+		}
+
+		text,
+		tspan {
+			font-family: 'Samsung Sharp Sans';
+			fill: #010101;
+			font-size: 54px;
+		}
+
+		path {
+			fill: none;
+			stroke-width: 3;
+		}
+	</style>
+
+	<rect style="fill:#e2e2e2;"
+		  width="1080"
+		  height="121"
+		  x="0"
+		  y="251" />
+
+	<path style="stroke:#cfcfcf;"
+		  d="M 42,252.5 H 1038" />
+
+	<path style="stroke:#e8e8e8;"
+		  d="m 42,370.5 h 996" />
+
+
+	<path style="stroke:#e8e8e8;"
+		  d="m 42,134.5 h 996" />
+	<path style="stroke:#cfcfcf;"
+		  d="m 42,640 h 996" />
+
+
+	<path style="stroke:#e8e8e8;"
+		  d="m 42,521.5 h 996" />
+
+	<path style="stroke:#e8e8e8;"
+		  d="m 42,16.5 h 996" />
+
+	<text>
+		<tspan x="52"
+			   y="92">xxx</tspan>
+		<tspan x="52"
+			   y="210">xxx</tspan>
+		<tspan x="52"
+			   y="332"
+			   style="font-size:64px;fill:#ff0000">软件信息(Software information)</tspan>
+		<tspan x="52"
+			   y="445">xxx</tspan>
+		<tspan x="52"
+			   y="597">xxx</tspan>
+	</text>
+
+</svg>

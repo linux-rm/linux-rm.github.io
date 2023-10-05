@@ -17,7 +17,7 @@ Samsung Galaxy S21
 	- [`!!!!!!警告!!!!!!Warning!!!!!!`](#警告warning)
 - [开始/Begining](#开始begining)
 	- [1. 备份/backup](#1-备份backup)
-	- [2. `退出账户/logout(非常重要/very important)`](#2-退出账户logout非常重要very-important)
+	- [2. `退出账户/logout(非常重要/very important)!`](#2-退出账户logout非常重要very-important)
 	- [3. 解锁/unlock](#3-解锁unlock)
 	- [4. 计算机上安装必要组件/Install the necessary components on your computer:](#4-计算机上安装必要组件install-the-necessary-components-on-your-computer)
 	- [5. 下载你的三星手机对应的最新固件./Download the latest firmware for your Samsung phone.](#5-下载你的三星手机对应的最新固件download-the-latest-firmware-for-your-samsung-phone)
@@ -51,47 +51,55 @@ Samsung Galaxy S21
 > * ||| 经过本人测试,[三星云](https://support.samsungcloud.com)在root后仍可以`正常使用`,所以你可以使用三星云进行备份,但`应用数据会丢失`.(包括账户信息,游戏进度,聊天记录等)
 >
 > * ||| After my own test, [Samsung Cloud](https://support.samsungcloud.com) can still be `used normally` after rooting, so you can use Samsung Cloud for backup, but `application data will be lost`. (including account information, game progress, chat history, etc.)
->
-> <img src="screen/备份.png" width="20%" /> <img src="screen/三星云.png" width="20%" />
 
-## 2. `退出账户/logout(非常重要/very important)`
-> <img src="screen/退出账户.png" width="20%" />
+## 2. `退出账户/logout(非常重要/very important)!`
+> `退出账户/logout(非常重要/very important)!`
+>
+> `退出账户/logout(非常重要/very important)!`
+>
+> `退出账户/logout(非常重要/very important)!`
 
 ## 3. 解锁/unlock
 [已经解锁bootloader(点此跳过)/Already unlocked bootloader (click here to skip)](#4-计算机上安装必要组件install-the-necessary-components-on-your-computer)
 
-> ||| 设置 -> 开发者选项(关于手机 -> 软件信息 -> 编译编号_3次) -> 允许OEM解锁
+> ||| 设置 -> 开发者选项(关于手机 -> 软件信息 -> 编译编号 3次) -> 允许OEM解锁
 >
-> ||| Settings -> Developer options(About phone -> Software information -> Build number_3 times) -> OEM unlocking
+> ||| Settings -> Developer options(About phone -> Software information -> Build number 3 times) -> OEM unlocking
 >
-> <img src="screen/关于手机.png" width="20%" /><img src="screen/软件信息.png"  width="20%" /><img src="screen/编译编号.png" width="20%" /><img src="screen/开发者选项.png" width="20%" /><img src="screen/OEM解锁.png" width="20%" />
+> <img src="screen/关于手机.svg" width="20%" /><img src="screen/软件信息.svg"  width="20%" /><img src="screen/编译编号.svg" width="20%" /><img src="screen/开发者选项.svg" width="20%" /><img src="screen/OEM解锁.svg" width="20%" />
 
 > 关机并解锁bootloader/Poweroff and unlock bootloader
 >
-> <img src="button/s-.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/poweroff.png" width="15%" /><img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="screen/warning.svg" width="15%" /> <img src="button/+.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/unlock-UI.svg" width="15%"/> <img src="button/+.svg" width="5%" />
+> 关机 <img src="button/s-.svg" width="5%" /><img src="button/7s.svg" width="5%" />
+<img src="screen/poweroff.svg" width="15%" />
+> <hr />
+> 进入解锁模式 <img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="screen/warning.svg" width="15%" />
+> <hr />
+> 解锁 <img src="button/+.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/unlock-UI.svg" width="15%"/> <img src="button/+.svg" width="5%" />
+> <hr />
+>
+>__注意:__ 非中国国行的三星手机可能还需要解锁`KG锁/网络锁`(请自行查阅资料).
+>
+>__Note:__
 
-请等待一段时间.你可以趁这个时间下载 Odin3 和 SamFirm以及必要组件.
+请等待一段时间.你可以趁这个时间下载 Odin3 和 Frija以及必要组件.
 
 
-Please wait for a while.You can download Odin3, SamFirm and the necessary components during this time.
+Please wait for a while.You can download Odin3, Frija and the necessary components during this time.
 
-[![Download Odin3, SamFirm & necessary components(必要组件)](https://img.shields.io/badge/Download-Odin3,_SamFirm_&_necessary_components(必要组件)-blue)](https://linux-rm.github.io/link/3)
+[![Download Odin3, Frija & necessary components(必要组件)](https://img.shields.io/badge/Download-Odin3,_Frija_&_necessary_components(必要组件)-blue)](https://linux-rm.github.io/link/3)
 https://linux-rm.github.io/link/3
 
 ## 4. 计算机上安装必要组件/Install the necessary components on your computer:
 >
-> 下载 Odin3 和 SamFirm 以及必要组件.
+> 下载 Odin3 和 Frija 以及必要组件.
 >
-> Download Odin3, SamFirm and the necessary components.
+> Download Odin3, Frija and the necessary components.
 >
-> [![Download Odin3, SamFirm & necessary components(必要组件)](https://img.shields.io/badge/Download-Odin3,_SamFirm_&_necessary_components(必要组件)-blue)](https://linux-rm.github.io/link/3)
+> [![Download Odin3, Frija & necessary components(必要组件)](https://img.shields.io/badge/Download-Odin3,_Frija_&_necessary_components(必要组件)-blue)](https://linux-rm.github.io/link/3)
 https://linux-rm.github.io/link/3
 >
-> > 解压缩并以管理员身份运行/Unzip and run as administrator:
-> >
-> > `dotNetFx35setup,SAMSUNG_USB_Driver_for_Mobile_Phones,VC*redist*`
-> >
-> > <img src="PC/1.png"/>
+> > 解压缩并以管理员身份运行/Unzip and run as administrator.
 > >
 > > 接下来你的电脑会收到更新重启,一般20分钟就能完成./Your computer will then receive an update restart, which will usually take 20 minutes
 
@@ -100,7 +108,7 @@ https://linux-rm.github.io/link/3
 
 ## 5. 下载你的三星手机对应的最新固件./Download the latest firmware for your Samsung phone.
 
-> 打开/Open `SamFirm`
+> 打开/Open `Frija`
 >
 > <img src="PC/2.png" width="50%"/><img src="PC/3.png" width="50%"/>
 >

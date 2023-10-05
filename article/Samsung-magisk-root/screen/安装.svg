@@ -12,129 +12,106 @@
 		text,
 		tspan {
 			font-family: 'Samsung Sharp Sans';
+
+		}
+
+		rect {
+			fill: #ececec;
 		}
 	</style>
 
+	<rect style="fill:#f6f6f6;"
+		  width="1085"
+		  height="2220"
+		  x="0"
+		  y="0" />
 
-	<text style="font-size:144px;fill:#4b4b4b;"
-		  x="646"
-		  y="2225">
-		<tspan x="646"
-			   y="2225">*</tspan>
-	</text>
-	<text style="font-size:40px;fill:#4b4b4b;"
+	<rect width="1015"
+		  height="275"
 		  x="32"
-		  y="77">
-		<tspan x="32"
-			   y="77"
-			   style="font-size:40px;fill:#4b4b4b;">Home</tspan>
-	</text>
-	<rect style="fill:#ececec;"
-		  width="1014"
-		  height="273"
-		  x="32"
-		  y="153"
+		  y="150"
 		  ry="20"
 		  rx="20" />
-	<rect style="fill:#ececec;"
-		  width="1014"
-		  height="273"
+	<rect width="1015"
+		  height="275"
 		  x="32"
 		  y="460"
 		  ry="20"
 		  rx="20" />
-	<rect style="fill:#ececec;"
-		  width="1014"
-		  height="273"
+	<rect width="1015"
+		  height="275"
 		  x="32"
-		  y="766"
+		  y="765"
 		  ry="20"
 		  rx="20" />
-	<rect style="fill:#ececec;"
-		  width="1014"
+	<rect width="1015"
 		  height="695"
 		  x="32"
 		  y="1065"
 		  ry="20"
 		  rx="20" />
+
+	<text style="font-size:32px;fill:#4b4b4b;">
+		<tspan x="100"
+			   y="320">xx xxx</tspan>
+		<tspan x="100"
+			   y="352">xx xxx</tspan>
+		<tspan x="100"
+			   y="384">xx xxx</tspan>
+		<tspan x="100"
+			   y="627">xx xxx</tspan>
+		<tspan x="100"
+			   y="659">xx xxx</tspan>
+		<tspan x="100"
+			   y="691">xx xxx</tspan>
+		<tspan x="65"
+			   y="841">..................</tspan>
+		<tspan x="65"
+			   y="1140">..................</tspan>
+	</text>
+
+
+
+	<text style="font-size:144px;">
+		<tspan style="fill:#5aace7;"
+			   x="105"
+			   y="2225">*</tspan>
+		<tspan x="375"
+			   y="2225"
+			   style="fill:#ececec">*</tspan>
+		<tspan x="646"
+			   y="2225"
+			   style="fill:#4b4b4b">*</tspan>
+		<tspan x="910"
+			   y="2225"
+			   style="fill:#ececec">*</tspan>
+	</text>
+
+
+
+	<text style="font-size:40px;fill:#4b4b4b;"
+		  x="32"
+		  y="77">
+		<tspan x="32"
+			   y="77">Home</tspan>
+	</text>
 	<text style="font-size:32px;fill:#5aace7;"
 		  x="205"
 		  y="230">
 		<tspan x="205"
-			   y="230"
-			   style="font-size:32px;fill:#5aace7;">Magisk</tspan>
-	</text>
-	<text style="font-size:72px;text-anchor:middle;fill:#ff0000;"
-		  x="850"
-		  y="240">
-		<tspan x="850"
-			   y="240"
-			   style="font-size:72px">安装(Install)</tspan>
-	</text>
-	<text style="font-size:32px;text-anchor:middle;fill:#4b4b4b;"
-		  x="100"
-		  y="320">
-		<tspan x="100"
-			   y="320"
-			   style="font-size:32px;text-anchor:start">xx xxx</tspan>
-		<tspan x="100"
-			   y="352"
-			   style="font-size:32px;text-anchor:start">xx xxx</tspan>
-		<tspan x="100"
-			   y="384"
-			   style="font-size:32px;text-anchor:start">xx xxx</tspan>
-	</text>
-	<text style="font-size:32px;text-anchor:middle;fill:#4b4b4b;"
-		  x="100"
-		  y="627">
-		<tspan x="100"
-			   y="627"
-			   style="font-size:32px;text-anchor:start">xx xxx</tspan>
-		<tspan x="100"
-			   y="659"
-			   style="font-size:32px;text-anchor:start">xx xxx</tspan>
-		<tspan x="100"
-			   y="691"
-			   style="font-size:32px;text-anchor:start">xx xxx</tspan>
-	</text>
-	<text style="font-size:144px;fill:#4b4b4b;"
-		  x="66"
-		  y="841">
-		<tspan x="66"
-			   y="841"
-			   style="font-size:144px;fill:#4b4b4b;">......</tspan>
-	</text>
-	<text style="font-size:144px;fill:#4b4b4b;"
-		  x="66"
-		  y="1141">
-		<tspan x="66"
-			   y="1141"
-			   style="font-size:144px;fill:#4b4b4b;">......</tspan>
-	</text>
-	<text style="font-size:144px;fill:#5aace7;"
-		  x="105"
-		  y="2225">
-		<tspan x="105"
-			   y="2225">*</tspan>
-	</text>
-	<text style="font-size:144px;fill:#ececec;"
-		  x="374"
-		  y="2225">
-		<tspan x="374"
-			   y="2225">*</tspan>
-	</text>
-	<text style="font-size:144px;fill:#ececec;"
-		  x="912"
-		  y="2225">
-		<tspan x="912"
-			   y="2225">*</tspan>
+			   y="230">Magisk</tspan>
 	</text>
 	<text style="font-size:48px;fill:#5aace7;"
-		  x="204"
-		  y="548">
-		<tspan x="204"
-			   y="548"
-			   style="font-size:48px">XXX</tspan>
+		  x="205"
+		  y="550">
+		<tspan x="205"
+			   y="550"
+			   style="font-size:48px">xxx</tspan>
 	</text>
-
+	<text style="font-size:72px;fill:#ff0000;"
+		  x="640"
+		  y="240">
+		<tspan x="640"
+			   y="240">安装(Install)</tspan>
+	</text>
 </svg>
