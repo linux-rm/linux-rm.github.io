@@ -18,17 +18,17 @@ https://developer.samsung.com/android-usb-driver
 
 # Odin3
 
-1. [![download-button-gitee](https://img.shields.io/badge/download-gitee-red)](https://gitee.com/linux-rm/linux-rm/releases/download/download/Odin3.tar.xz)
+1. [![download-button-gitee](https://img.shields.io/badge/download-gitee-red)](https://gitee.com/linux-rm/linux-rm/releases/download/download/Odin3_v3.14.4.tar.xz)
 
-	https://gitee.com/linux-rm/linux-rm/releases/download/download/Odin3.tar.xz
+	https://gitee.com/linux-rm/linux-rm/releases/download/download/Odin3_v3.14.4.tar.xz
 
-2. [![download-button-linux-rm.github.io](https://img.shields.io/badge/download-linux--rm.github.io-black)](https://linux-rm.github.io/article/Samsung-magisk-root/download/Odin3.tar.xz)
+2. [![download-button-linux-rm.github.io](https://img.shields.io/badge/download-linux--rm.github.io-black)](https://linux-rm.github.io/article/Samsung-magisk-root/download/Odin3_v3.14.4.tar.xz)
 
-	https://linux-rm.github.io/article/Samsung-magisk-root/download/Odin3.tar.xz
+	https://linux-rm.github.io/article/Samsung-magisk-root/download/Odin3_v3.14.4.tar.xz
 
-3. [![download-button-github](https://img.shields.io/badge/download-github-black)](https://github.com/linux-rm/linux-rm/raw/main/article/Samsung-magisk-root/download/Odin3.tar.xz)
+3. [![download-button-github](https://img.shields.io/badge/download-github-black)](https://github.com/linux-rm/linux-rm/raw/main/article/Samsung-magisk-root/download/Odin3_v3.14.4.tar.xz)
 
-	https://github.com/linux-rm/linux-rm/raw/main/article/Samsung-magisk-root/download/Odin3.tar.xz
+	https://github.com/linux-rm/linux-rm/raw/main/article/Samsung-magisk-root/download/Odin3_v3.14.4.tar.xz
 
 
 ---
