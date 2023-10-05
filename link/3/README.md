@@ -1,3 +1,5 @@
+# Odin3, Frija & necessary components(必要组件)
+
 # 7z
 
 [![download-official(latest)](https://img.shields.io/badge/download-official_latest-green)](https://7-zip.org/download.html)
