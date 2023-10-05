@@ -16,9 +16,9 @@ https://developer.samsung.com/android-usb-driver
 
 # Odin3
 
-1. [![download-button-gitee](https://img.shields.io/badge/download-gitee-red)](https://gitee.com/linux-rm/linux-rm/releases/download/Odin3/Odin3.tar.xz)
+1. [![download-button-gitee](https://img.shields.io/badge/download-gitee-red)](https://gitee.com/linux-rm/linux-rm/releases/download/download/Odin3.tar.xz)
 
-	https://gitee.com/linux-rm/linux-rm/releases/download/Odin3/Odin3.tar.xz
+	https://gitee.com/linux-rm/linux-rm/releases/download/download/Odin3.tar.xz
 
 2. [![download-button-linux-rm.github.io](https://img.shields.io/badge/download-linux--rm.github.io-black)](https://linux-rm.github.io/article/Samsung-magisk-root/download/Odin3.tar.xz)
 
@@ -33,9 +33,9 @@ https://developer.samsung.com/android-usb-driver
 
 # Frija
 
-1. [![download-button-gitee](https://img.shields.io/badge/download-gitee-red)](https://gitee.com/linux-rm/linux-rm/releases/download/Frija/Frija.exe)
+1. [![download-button-gitee](https://img.shields.io/badge/download-gitee-red)](https://gitee.com/linux-rm/linux-rm/releases/download/download/Frija.exe)
 
-	https://gitee.com/linux-rm/linux-rm/releases/download/Frija/Frija.exe
+	https://gitee.com/linux-rm/linux-rm/releases/download/download/Frija.exe
 
 2. [![download-button-linux-rm.github.io](https://img.shields.io/badge/download-linux--rm.github.io-black)](https://linux-rm.github.io/article/Samsung-magisk-root/download/Frija.exe)
 
