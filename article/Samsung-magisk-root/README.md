@@ -73,15 +73,15 @@ Samsung Galaxy S21
 > 关机 <img src="button/s-.svg" width="5%" /><img src="button/7s.svg" width="5%" />
 <img src="screen/poweroff.svg" width="15%" />
 >
-> ---
+>
 >
 > 进入解锁模式 <img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="screen/warning.svg" width="15%" />
 >
-> ---
+>
 >
 > 解锁 <img src="button/+.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/unlock-UI.svg" width="15%"/> <img src="button/+.svg" width="5%" />
 >
-> ---
+>
 >
 > > __注意:__ 非中国国行的三星手机可能还需要解锁`KG锁/网络锁`(请自行查阅资料).
 > >
