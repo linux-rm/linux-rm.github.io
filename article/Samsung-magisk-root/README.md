@@ -71,7 +71,7 @@ Samsung Galaxy S21
 > 关机并解锁bootloader/Poweroff and unlock bootloader
 >
 > 关机 <img src="button/s-.svg" width="5%" /><img src="button/7s.svg" width="5%" />
-<img src="screen/poweroff.svg" width="15%" />
+> <img src="screen/poweroff.svg" width="15%" />
 >
 >
 >
