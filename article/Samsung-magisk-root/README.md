@@ -78,9 +78,9 @@ Samsung Galaxy S21
 > 解锁 <img src="button/+.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/unlock-UI.svg" width="15%"/> <img src="button/+.svg" width="5%" />
 > ---
 >
->__注意:__ 非中国国行的三星手机可能还需要解锁`KG锁/网络锁`(请自行查阅资料).
->
->__Note:__
+> > __注意:__ 非中国国行的三星手机可能还需要解锁`KG锁/网络锁`(请自行查阅资料).
+> >
+> > __Note:__ Samsung phones that are not CHC may also need to unlock the `KG lock/network lock` (please consult the information by yourself).
 
 请等待一段时间.你可以趁这个时间下载 Odin3 和 Frija以及必要组件.
 
