@@ -125,7 +125,7 @@ https://linux-rm.github.io/link/3
 ## 6. 刷入官方系统(先不修补)/Flash into the official system (don't patch it first)
 > 手机关机,进入下载模式./Turn off your phone and enter the download mode.
 >
-> <img src="button/s-.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/poweroff.png" width="10%" /> <img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="screen/warning.svg" width="15%" /> <img src="button/+.svg" width="5%" /> <img src="screen/download-mode.png" width="15%">
+> <img src="button/s-.svg" width="5%" /><img src="button/7s.svg" width="5%" /> <img src="screen/poweroff.svg" width="10%" /> <img src="button/USB.svg" width="10%" /> <img src="button/+-.svg" width="5%" /><img src="button/7s.svg" width="5%" /><img src="screen/warning.svg" width="15%" /> <img src="button/+.svg" width="5%" /> <img src="screen/download-mode.png" width="15%">
 >
 > 在你的计算机上电脑打开 odin3./Open odin3 on your computer.
 >
